@@ -324,7 +324,7 @@ Add walkthrough/demo video link here.
 Example:
 
 ```
-https://drive.google.com/file/d/1KTWXZq6sBfI4LhHWI9eFLpAE3vQNxbio/view?usp=drivesdk
+https://drive.google.com/file/d/12f77y9rvRJ-pTi9kKScCfdycLWwJ1sxp/view?usp=drivesdk
 ```
 
 ---
